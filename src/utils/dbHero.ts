@@ -28,7 +28,7 @@ const dbHero = {
   "historia": {
     "titulo": "HISTÓRIA DE ORIGEM",
     "description": "Hana Song, mais conhecida pelo artístico “D.Va”, é a número 1. Como ex-jogadora profissional, D.Va usa suas habilidades para pilotar um mecha e defender a Coreia do Sul. Ela e os outros pilotos, conhecidos como Esquadrão MEKA, são a linha de defensa entre o país e os Kishin invasores, uma ameaça mecânica das profundezas.",
-    "url_video": "https://www.youtube.com/embed/q7j2d6YCQbg",
+    "url_video": "https://www.youtube.com/embed/zlEWKEQsgeQ",
     "paragrafos": [
       {
         "subtitulo": "KISHIN",
