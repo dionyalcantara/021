@@ -38,7 +38,7 @@ export function CardHero({ imgCard }: CardHeroProps) {
           gap-1`}
         >
           <Image src={imgCard.badge} width={20} height={20} alt="badge-role" />
-          <span className={`${roboto.className} text-sm`}>
+          <span className={`${roboto.className} text-black text-sm`}>
             {imgCard.name.toUpperCase()}
           </span>
         </div>

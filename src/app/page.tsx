@@ -1,6 +1,6 @@
 import { CardHero } from "@/components/CardHero";
 
-import dbHero from "../utils/dbHero.js";
+import dbHero from "../utils/dbHero";
 
 export default function Home() {
   return (
